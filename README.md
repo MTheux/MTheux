@@ -23,6 +23,8 @@
   </a>
 </p> 
 
+script src="https://tryhackme.com/badge/525211"></script>
+
 ## 📈 Statistics
 
 <div align="left">
