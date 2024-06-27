@@ -49,8 +49,9 @@
     <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="whatsapp logo"  />
   </a>
 </div>
-
-
+<a
+<img src="https://tryhackme-badges.s3.amazonaws.com/MFerreira.png" alt="TryHackMe">
+</a>
 <!---
 Mftheux/Mftheux is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
