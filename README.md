@@ -41,7 +41,7 @@
   <a href="https://tryhackme.com/p/MFerreira" target="_blank">
     <img src="https://img.shields.io/static/v1?message=TryHackMe&logo=tryhackme&label=&color=88cc14&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="tryhackme logo"  />
   </a>
-  <a href="https://discord.com/channels/@MfTheux" target="_blank">
+  <a href="https://discord.gg/Vp3ZfwpmWp" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="discord logo"  />
   </a>
   <a href="https://www.hackerrank.com/profile/mferreira_nina" target="_blank">
