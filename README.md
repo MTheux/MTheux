@@ -50,14 +50,6 @@
   </a>
 </div>
 
-###
-
-<img src="https://raw.githubusercontent.com/MTheux/MTheux/output/snake.svg" alt="Snake animation" />
-
-###
-
-<script src="https://tryhackme.com/badge/525211"></script>
-
 
 <!---
 Mftheux/Mftheux is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
