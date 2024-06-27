@@ -23,7 +23,6 @@
   </a>
 </p> 
 
-script src="https://tryhackme.com/badge/525211"></script>
 
 ## 📈 Statistics
 
@@ -57,7 +56,7 @@ script src="https://tryhackme.com/badge/525211"></script>
 
 ###
 
-
+<script src="https://tryhackme.com/badge/525211"></script>
 
 
 <!---
