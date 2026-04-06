@@ -1,56 +1,145 @@
-  <img src="https://tryhackme-badges.s3.amazonaws.com/MFerreira.png" alt="TryHackMe">
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=SYNKOD3&color=006bed" alt="Profile views" /> </p>
-<img src="https://cdn.discordapp.com/attachments/1063112899901530252/1187521401033338880/271839856-3b4607a1-1cc6-41f1-926f-892ae880e7a5.gif?ex=6597307d&is=6584bb7d&hm=50f84cc892856b1a90d2895d9b7a6d4a25053f0a44887224ecda548f0a3aaf54&" min-width="410px" max-width="410px" width="410px" align="right">
-<h1 align="left">Hi dear <img src="https://cdn.discordapp.com/attachments/1063112899901530252/1187521782706606192/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif?ex=659730d8&is=6584bbd8&hm=4045f1b221aee556a31ec05b26c0c6f01b6796d9b7eb2385f808fa0aadfca03e&" height="30px">, I`m Mftheux!</h1>
+<!-- Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:8B0000,100:ff0000&height=220&section=header&text=Matheus%20Ferreira&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=Offensive%20Security%20%7C%20Pentester%20%7C%20Bug%20Hunter&descSize=18&descAlignY=55&animation=fadeIn" width="100%" />
 
-<h3> Navigating life's source code.</h3>
+<!-- Typing SVG -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=FF0000&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=80&lines=%F0%9F%94%93+Breaking+things+to+make+them+stronger;%F0%9F%8E%AF+OWASP+%7C+API+Security+%7C+Web+%26+Mobile+Pentest" alt="Typing SVG" />
+</a>
 
-<p align="left">
-• 🎓 Certified Pentester <a href="https://www.credly.com/badges/1012fc8a-0747-4cb8-bd90-2613564df63f/">PENTEST+</a>.<BR>
-• 🧠 Enhancing my skills at <a href="https://tryhackme.com/p/MFerreira">TryHACKme</a>.<BR>
-</p>
+<br/>
 
-## 🚀 My Tech Stack
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,java,js,py,linux,docker,vscode" />
-  </a>
-</p> 
+<!-- Badges -->
+[![HuntBox](https://img.shields.io/badge/🔴_HuntBox-Offensive_Security-8B0000?style=for-the-badge&labelColor=0d0d0d)](https://huntbox.com.br)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/matheus-a-40096a150)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/MFerreira)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/Vp3ZfwpmWp)
 
-## 🛠️ Tools I use on a daily basis
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=bash,docker,github,linux,postman,py,wordpress,vscode,raspberrypi,html,java,js,discord" /> 
-  </a>
-</p> 
-
-
-## 📈 Statistics
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MTheux&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
-## Let's get in touch
+---
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/matheus-n-40096a150/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"  />
-  </a>
-  <a href="https://tryhackme.com/p/MFerreira" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=TryHackMe&logo=tryhackme&label=&color=88cc14&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="tryhackme logo"  />
-  </a>
-  <a href="https://discord.gg/Vp3ZfwpmWp" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="discord logo"  />
-  </a>
-  <a href="https://api.whatsapp.com/send?phone=5511960226415&text=Ol%C3%A1,%20vim%20atrav%C3%A9s%20do%20seu%20GitHub." target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="whatsapp logo"  />
-  </a>
+## 🏴‍☠️ About Me
+
+```yaml
+name: Matheus Ferreira
+alias: Mftheux
+role: Offensive Security Professional
+company: Founder @ HuntBox | Contractor @ IT4US
+location: São Paulo, BR
+focus: API Pentest | Web Application Security | Bug Bounty
+certifications_in_progress: [OSCP, eWPT, BSCP]
+```
+
+> *"Security is not a product, but a process."* — Bruce Schneier
+
+I'm an offensive security specialist focused on **API penetration testing**, **web application security**, and **vulnerability research**. Currently building **[HuntBox](https://huntbox.com.br)** — a 100% offensive security company delivering real-world pentest engagements.
+
+---
+
+## 🔴 HuntBox — Offensive Security
+
+<div align="center">
+
+[![HuntBox Website](https://img.shields.io/badge/🌐_huntbox.com.br-Visit_Site-ff0000?style=for-the-badge&labelColor=0d0d0d)](https://huntbox.com.br)
+
 </div>
 
+**HuntBox** is my offensive security company — no blue team, no compliance theater. We break things so you can fix them before attackers do.
 
-<!---
-Mftheux/Mftheux is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🎯 **Services:** API Pentest · Web App Pentest · Mobile Pentest · Vulnerability Assessment
+
+📋 **Standards:** OWASP Top 10 · OWASP API Security · CVSS 3.1 · NIST SP 800-53 · CWE
+
+---
+
+## ⚡ Tech & Arsenal
+
+<div align="center">
+
+#### 🔧 Languages & Frameworks
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+#### 🛡️ Offensive Toolkit
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=hackthebox&logoColor=white)
+![SQLMap](https://img.shields.io/badge/SQLMap-CC0000?style=flat-square&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-4682B4?style=flat-square&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=flat-square&logo=metasploit&logoColor=white)
+![Frida](https://img.shields.io/badge/Frida-EF6C00?style=flat-square&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![OWASP ZAP](https://img.shields.io/badge/OWASP_ZAP-00549E?style=flat-square&logoColor=white)
+
+#### ☁️ Platforms
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Kali](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+
+</div>
+
+---
+
+## 🏆 TryHackMe
+
+<div align="center">
+
+![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/MFerreira.png)
+
+**Rank:** Guru &nbsp;|&nbsp; **Points:** 19,188+ &nbsp;|&nbsp; **Rooms:** 125+
+
+</div>
+
+---
+
+## 📌 Featured Projects
+
+| Project | Description | Tech |
+|---------|-------------|------|
+| [**CheckParams**](https://github.com/MTheux/CheckParams) | Parameter discovery & enumeration tool | `Python` |
+| [**XSS-scripts**](https://github.com/MTheux/XSS-scripts) | XSS exploitation scripts collection | `Hack` |
+| [**Pentest-Tools**](https://github.com/MTheux/Pentest-Tools) | Curated pentest tools & starred repos | `Multi` |
+| [**Osint-command**](https://github.com/MTheux/Osint-command) | OSINT reconnaissance commands | `Multi` |
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=MTheux&show_icons=true&theme=radical&hide_border=true&bg_color=0d0d0d&title_color=ff0000&icon_color=ff0000&text_color=ffffff" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MTheux&layout=compact&theme=radical&hide_border=true&bg_color=0d0d0d&title_color=ff0000&text_color=ffffff" />
+
+<br/>
+
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=MTheux&theme=radical&hide_border=true&background=0d0d0d&ring=ff0000&fire=ff0000&currStreakLabel=ff0000)
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+![Snake animation](https://raw.githubusercontent.com/MTheux/MTheux/output/github-snake-dark.svg)
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:8B0000,100:ff0000&height=120&section=footer" width="100%" />
+
+**⚔️ Hack the planet. Secure the future.**
+
+![Profile Views](https://komarev.com/ghpvc/?username=MTheux&color=ff0000&style=flat-square&label=Profile+Views)
+
+</div>
