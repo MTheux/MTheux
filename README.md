@@ -5,7 +5,7 @@
 
 <!-- Typing SVG -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=FF0000&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=80&lines=%F0%9F%94%93+Breaking+things+to+make+them+stronger;%F0%9F%8E%AF+OWASP+%7C+API+Security+%7C+Web+%26+Mobile+Pentest" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=FF0000&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=80&lines=%F0%9F%94%93+Breaking+things+to+make+them+stronger;%F0%9F%8E%AF+OWASP+%7C+API+Security+%7C+LLM+Security+%7C+Web+Pentest" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -28,13 +28,13 @@ alias: Mftheux
 role: Offensive Security Professional
 company: Founder @ HuntBox | Contractor @ IT4US
 location: São Paulo, BR
-focus: API Pentest | Web Application Security | Bug Bounty
+focus: API Pentest | Web Application Security | LLM Security | Bug Bounty
 certifications_in_progress: [OSCP, eWPT, BSCP]
 ```
 
 > *"Security is not a product, but a process."* — Bruce Schneier
 
-I'm an offensive security specialist focused on **API penetration testing**, **web application security**, and **vulnerability research**. Currently building **[HuntBox](https://huntbox.com.br)** — a 100% offensive security company delivering real-world pentest engagements.
+I'm an offensive security specialist focused on **API penetration testing**, **web application security**, **LLM security**, and **vulnerability research**. Currently building **[HuntBox](https://huntbox.com.br)** — a 100% offensive security company delivering real-world pentest engagements.
 
 ---
 
@@ -48,7 +48,7 @@ I'm an offensive security specialist focused on **API penetration testing**, **w
 
 **HuntBox** is my offensive security company — no blue team, no compliance theater. We break things so you can fix them before attackers do.
 
-🎯 **Services:** API Pentest · Web App Pentest · Mobile Pentest · Vulnerability Assessment
+🎯 **Services:** API Pentest · Web App Pentest · Mobile Pentest · LLM Security · Vulnerability Assessment
 
 📋 **Standards:** OWASP Top 10 · OWASP API Security · CVSS 3.1 · NIST SP 800-53 · CWE
 
@@ -74,13 +74,14 @@ I'm an offensive security specialist focused on **API penetration testing**, **w
 ![Frida](https://img.shields.io/badge/Frida-EF6C00?style=flat-square&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![OWASP ZAP](https://img.shields.io/badge/OWASP_ZAP-00549E?style=flat-square&logoColor=white)
+![Caido](https://img.shields.io/badge/Caido-6C47FF?style=flat-square&logoColor=white)
 
-#### ☁️ Platforms
+#### ☁️ Platforms & Research
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Kali](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![LLM Security](https://img.shields.io/badge/LLM_Security-8B0000?style=flat-square&logoColor=white)
 
 </div>
 
@@ -97,15 +98,6 @@ I'm an offensive security specialist focused on **API penetration testing**, **w
 </div>
 
 ---
-
-## 📌 Featured Projects
-
-| Project | Description | Tech |
-|---------|-------------|------|
-| [**CheckParams**](https://github.com/MTheux/CheckParams) | Parameter discovery & enumeration tool | `Python` |
-| [**XSS-scripts**](https://github.com/MTheux/XSS-scripts) | XSS exploitation scripts collection | `Hack` |
-| [**Pentest-Tools**](https://github.com/MTheux/Pentest-Tools) | Curated pentest tools & starred repos | `Multi` |
-| [**Osint-command**](https://github.com/MTheux/Osint-command) | OSINT reconnaissance commands | `Multi` |
 
 ---
 
