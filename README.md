@@ -23,13 +23,10 @@
 ## 🏴‍☠️ About Me
 
 ```yaml
-name: Matheus Ferreira
 alias: Mftheux
 role: Offensive Security Professional
-company: Founder @ HuntBox | Contractor @ IT4US
 location: São Paulo, BR
 focus: API Pentest | Web Application Security | LLM Security | Bug Bounty
-certifications_in_progress: [OSCP, eWPT, BSCP]
 ```
 
 > *"Security is not a product, but a process."* — Bruce Schneier
